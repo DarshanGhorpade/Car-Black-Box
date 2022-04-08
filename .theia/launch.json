@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible Node.js debug attributes.
+    // Hover to view descriptions of existing attributes.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "theia-mock-debug",
+            "request": "launch",
+            "name": "Debugging using Simulator",
+            "stopOnEntry": false,
+            "program": "${file}"
+        }
+    ]
+}

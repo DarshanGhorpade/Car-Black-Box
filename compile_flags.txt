@@ -1,0 +1,4 @@
+-Wno-main-return-type
+-I/opt/microchip/xc8/v2.32/pic/include/c90
+-I/opt/microchip/xc8/v2.32/pic/include
+-I/opt/microchip/xc8/v2.32/pic/include/legacy
